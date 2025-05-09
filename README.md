@@ -1,4 +1,3 @@
-# Challenge-AluraStore
 # 📊 Alura Store Challenge - Data Science
 ## Sobre o projeto
 Este projeto tem como objetivo analisar os dados de vendas de quatro lojas fictícias da Alura Store, compreender seu desempenho e auxiliar o Senhor João a decidir qual delas possui menor potencial e deve ser vendida, para que ele possa investir num novo negócio. 
